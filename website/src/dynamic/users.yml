@@ -399,6 +399,10 @@
   infoLink: "https://www.oracle.com"
   pinned: false
 -
+  caption: Passgenau-Digital
+  image: "img/companies/passgenau.svg"
+  infoLink: "https://passgenau.digital/en"
+-
   caption: Paxos
   image: "img/companies/paxos.png"
   infoLink: "https://www.paxos.com/"
